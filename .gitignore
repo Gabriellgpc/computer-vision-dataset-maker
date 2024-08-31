@@ -1,0 +1,12 @@
+__pycache__
+
+*.jpg
+*.png
+*.ipynb
+assets
+
+types
+hf_hub
+gc
+dataset
+Florence-2-base
