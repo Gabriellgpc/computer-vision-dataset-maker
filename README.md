@@ -1,5 +1,10 @@
 # Computer Vision Dataset Maker
 
+You can find a technical article related to this project here [The Power of Florence-2 with OpenVINO & FiftyOne: Real-World Applications in Image Analysis](https://medium.com/@condadoslgpc/the-power-of-florence-2-with-openvino-fiftyone-real-world-applications-in-image-analysis-b931fd8adb44)
+
+
+## Conda environment
+
 ```bash
 conda create -n cvd-maker python=3.11 -y
 conda activate cvd-maker
